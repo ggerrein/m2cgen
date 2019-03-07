@@ -10,7 +10,7 @@
 * [Supported Languages](#supported-languages)
 * [Supported Models](#supported-models)
 * [Classification Output](#classification-output)
-* [Usage](#usage)
+* [Usage](#usage) 
 * [CLI](#cli)
 * [FAQ](#faq)
 
